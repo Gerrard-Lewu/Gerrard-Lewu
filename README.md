@@ -1,4 +1,4 @@
-## Hi! Just a chill dude working on cool stuff 😄
+## I make cool stuff
 
 <!--
 **Gerrard-Lewu/Gerrard-Lewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
